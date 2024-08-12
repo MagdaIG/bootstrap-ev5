@@ -1,0 +1,14 @@
+.custom-navbar .navbar-nav .nav-link {
+    color: white; /* Color blanco para los enlaces del navbar */
+}
+.custom-navbar .navbar-brand {
+    color: white; /* Color blanco para el texto de la marca del navbar */
+}
+.custom-navbar .navbar-nav .nav-link.active {
+    color: white; /* Color blanco para el enlace activo */
+}
+.card-footer .card-link {
+    color: #c6c7c8; /* Color gris para el enlace "Ver más" */
+    text-align: left; /* Alineación a la izquierda */
+    display: block; /* Asegura que el enlace ocupe toda la anchura del pie de la tarjeta */
+}
